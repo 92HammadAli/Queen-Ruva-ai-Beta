@@ -1,9 +1,9 @@
 {
-  "name": "Queen Ruva AI Beta",
+  "name": "Hami x Hacker",
   "version": "2.4.0",
-  "description": "Queen Ruva AI Beta - The Next-Gen WhatsApp Bot Experience | Powered by Iconic Tech",
+  "description": "Hami - The Next-Gen WhatsApp Bot Experience | Powered by Hammad ",
   "logo": "https://i.ibb.co/7YFvXzH/queen-ruva-ai-beta.jpg",
-  "keywords": ["whatsapp", "ai", "bot", "md", "queen-ruva", "iconic-tech", "smart-bot"],
+  "keywords": ["whatsapp", "ai", "bot", "md", "queen-ruva", "Hami ", "smart-bot"],
   "repository": "https://github.com/iconic05/Queen-ruva-ai-beta.git",
   "stack": "container",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "env": {
     "BOT_NAME": {
-      "description": "Your bot's display name (Queen Ruva AI Beta recommended)",
+      "description": "Your bot's display name (Hami x Hacker Beta recommended)",
       "value": "Queen Ruva AI β",
       "required": true
     },
@@ -22,12 +22,12 @@
     },
     "OWNER_NAME": {
       "description": "Bot owner's name",
-      "value": "Iconic Developer",
+      "value": "Hammad developer",
       "required": true
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Name that appears on generated stickers",
-      "value": "Queen Ruva AI | Iconic Tech",
+      "value": "Hami | Hacker",
       "required": false
     },
     "HEROKU_API_KEY": {
